@@ -1,0 +1,604 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body hit sound",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18874786194
+    },
+    {},
+    {
+      "name": "body kill",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 108398727844665
+    },
+    {
+      "name": "kill hit",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 7147666661
+    },
+    {
+      "name": "glass",
+      "replace_ids": [
+        124796745676624
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "no texturres",
+      "replace_ids": [
+        24108148,
+        1053546634,
+        1858069131,
+        2045471763,
+        4634384903,
+        6372755229,
+        7261161576,
+        7658055825,
+        9920484153,
+        10055526642,
+        10237720195,
+        10312359831,
+        10372251207,
+        11191634674,
+        11454212345,
+        11454576739,
+        11477602857,
+        11481072646,
+        12257815938,
+        12993641937,
+        12994255512,
+        12994305541,
+        12995298072,
+        13926595956,
+        13970862959,
+        14003050924,
+        14220695494,
+        14580701813,
+        14632162943,
+        14632191598,
+        15394335373,
+        15439244719,
+        16833617681,
+        16885732418,
+        17098901439,
+        17098901515,
+        17549641791,
+        17848929675,
+        17878306151,
+        18341247839,
+        18341252690,
+        18954440250,
+        71741777608333,
+        72053439603126,
+        72276719291683,
+        72753856840825,
+        72960281658487,
+        73151089176577,
+        74719795622292,
+        77116507932621,
+        77280333979830,
+        77336612774331,
+        78327502426950,
+        78768132861655,
+        79005606703229,
+        79037432346037,
+        79565853810157,
+        79631379182336,
+        79768894432441,
+        80590591696455,
+        80774719974059,
+        80886738227339,
+        80915278627693,
+        80955953120740,
+        81208695519665,
+        81611162308620,
+        81642366414902,
+        81693423238367,
+        140029191112928,
+        107031875566042,
+        140029191112928,
+        109995771342047,
+        105046897710181,
+        107693403199056,
+        137454124114299,
+        82237768053790,
+        83407810230880,
+        83638886198746,
+        83839927036695,
+        83884178210991,
+        84814005764983,
+        84978477725458,
+        85422435934136,
+        85617933102916,
+        86281020230014,
+        87332003399742,
+        87971497289183,
+        88413542905305,
+        88927716299506,
+        89745235079273,
+        90033041009085,
+        90179282534399,
+        90659681211955,
+        91814654960140,
+        92099638459261,
+        92826467018506,
+        92965690658072,
+        93201601445232,
+        95590378350770,
+        95627464661160,
+        95702748739103,
+        96422772314925,
+        97174428313157,
+        97472370579636,
+        97570399922859,
+        98096261719363,
+        98259358275652,
+        99056421514811,
+        100443859354766,
+        101121404858270,
+        101412855436955,
+        102093489933209,
+        102195387914801,
+        103020541883227,
+        104069270158269,
+        104397847902544,
+        104815136324261,
+        104991586616989,
+        105046897710181,
+        105936796441664,
+        106898120945134,
+        107031875566042,
+        107080975087735,
+        107339888652888,
+        107693403199056,
+        109532463722517,
+        109555757686449,
+        109995771342047,
+        110453816515564,
+        111104773104049,
+        111572493457361,
+        111609564827950,
+        111953943845562,
+        112003394538734,
+        112636860018786,
+        113384402304122,
+        113418617796702,
+        113526183622986,
+        113733074854405,
+        113854130807451,
+        114467204454198,
+        114690180887456,
+        114930686452917,
+        115211623181349,
+        115486665139898,
+        116399912465134,
+        116492546588515,
+        117026183628444,
+        117211153235422,
+        118898377115379,
+        119623285970391,
+        120384271860797,
+        120412644793902,
+        120697557002175,
+        120989415298893,
+        121183545336837,
+        121539610554225,
+        122443872970709,
+        122713747523308,
+        124560387406160,
+        125017852798308,
+        125454368722317,
+        125624691916024,
+        125769120647437,
+        126127146948771,
+        126747285189934,
+        126856837060262,
+        127262777923020,
+        127921011937186,
+        128090144224329,
+        128794400839373,
+        129052025858485,
+        129493590005799,
+        129654447897318,
+        129920459539056,
+        130130820236319,
+        130832703001366,
+        130988842567634,
+        131101052595213,
+        131112834905608,
+        131169173950668,
+        133044483242066,
+        134427107714861,
+        134525651770192,
+        135270565327831,
+        135847479909314,
+        135908632589654,
+        136293268881985,
+        136360223978244,
+        136529936726825,
+        137454124114299,
+        137681407515904,
+        138131773990472,
+        138300995971045,
+        138719411464330,
+        138790218172606,
+        138809367537938,
+        140025808810111,
+        140029191112928,
+        140500942535296,
+        99205746879920517696,
+        18226913133
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "po",
+      "replace_ids": [
+        87472982302531
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "bk",
+      "replace_ids": [
+        14147881792
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933338
+    },
+    {
+      "name": "dn",
+      "replace_ids": [
+        14147882149
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144931530
+    },
+    {
+      "name": "ft",
+      "replace_ids": [
+        14147882761
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933262
+    },
+    {
+      "name": "lf",
+      "replace_ids": [
+        14147883091
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933244
+    },
+    {
+      "name": "rt",
+      "replace_ids": [
+        14147882405
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144933299
+    },
+    {
+      "name": "up",
+      "replace_ids": [
+        14147881297
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 144931564
+    },
+    {
+      "name": "start logo pear (teto vibes)",
+      "replace_ids": [
+        17803962335,
+        13854780213
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/Dxshrr/Rivals-Textures-Fleasion/main/image.png"
+    },
+    {
+      "name": "heal sfx",
+      "replace_ids": [
+        17138490999
+      ],
+      "remove": false,
+      "enabled": true,
+      "with_id": 1721952882
+    },
+    {
+      "name": "change map select to tetrio",
+      "replace_ids": [
+        103035811146294
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/allclear.base.ogg"
+    },
+    {
+      "name": "change win to tetrio",
+      "replace_ids": [
+        16810041280
+      ],
+      "remove": false,
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/allclear.base.ogg"
+    },
+    {
+      "name": "change lose to tetrio",
+      "replace_ids": [
+        16810321565
+      ],
+      "remove": false,
+      "enabled": true,
+      "mode": "cdn",
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/allclear.base.ogg"
+    },
+    {
+      "name": "replace d jump with old roblox sfx",
+      "replace_ids": [
+        16770456156,
+        16492958314
+      ],
+      "remove": false,
+      "enabled": true,
+      "with_id": 2428506580
+    },
+    {
+      "name": "dafont???",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/Garet-Book.ttf"
+    },
+    {
+      "name": "replace countdown with kewl music",
+      "replace_ids": [
+        17826470563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/theeyellow.ogg"
+    },
+    {
+      "name": "headshot spark removal",
+      "replace_ids": [
+        15109829804
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109303978243933
+    },
+    {
+      "name": "remove item background",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {},
+    {
+      "name": "changes the win theme to a better theme",
+      "replace_ids": [
+        18221725850,
+        18239670056,
+        18221725850,
+        18221726246
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/winnerwinner.ogg"
+    },
+    {
+      "name": "lose to laugh",
+      "replace_ids": [
+        18239670367
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "enabled": false
+    },
+    {
+      "name": "change gamemode end to looneytunes",
+      "replace_ids": [
+        99135525400251
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 7712639823
+    },
+    {
+      "name": "change match point to tetrio score",
+      "replace_ids": [
+        17026600996
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/showscore.base.ogg"
+    },
+    {
+      "name": "chickn",
+      "replace_ids": [
+        133917828562858
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/mine.webp"
+    },
+    {
+      "name": "onyx removal",
+      "replace_ids": [
+        127338559130032,
+        16294586406,
+        75156669118637,
+        93477262732302
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/SyneMono-Regular.ttf"
+    },
+    {},
+    {},
+    {
+      "name": "upd data",
+      "replace_ids": [
+        101218118381254
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/upddata.json"
+    },
+    {
+      "name": "ding to the bird",
+      "replace_ids": [
+        8483887957
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/damn-pukeko.mp3"
+    },
+    {
+      "name": "intro theme to lego brick",
+      "replace_ids": [
+        6384899588
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/lego-build.mp3"
+    },
+    {
+      "name": "replace slide sfx with uk slide",
+      "replace_ids": [
+        16737738420
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/Sliding.mp3"
+    },
+    {
+      "name": "change rank change sfx to uk shatter",
+      "replace_ids": [
+        70643163489676
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17405655409
+    },
+    {
+      "name": "replace demote rank with awwww",
+      "replace_ids": [
+        91547731028928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/studio-audience-awwww-sound-fx.mp3"
+    },
+    {
+      "name": "replace promote with final fantasy fanfare",
+      "replace_ids": [
+        138975587469438
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/final-fantasy-vii-victory-fanfare-1.mp3"
+    },
+    {
+      "name": "replace lobby music with tetrio",
+      "replace_ids": [
+        17697682466,
+        17733314783
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/kuchu-toshi.mp3"
+    },
+    {
+      "name": "remove the lil pattern on the maps",
+      "replace_ids": [
+        136887158756561
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "replace click with tetrio click",
+      "replace_ids": [
+        177266782
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/menuclick.base.ogg"
+    },
+    {
+      "name": "change matchmaking to tetrio",
+      "replace_ids": [
+        18525513345
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/achievement_3.base.ogg"
+    },
+    {
+      "name": "elim icon",
+      "replace_ids": [
+        16802957270
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130413597135596
+    },
+    {
+      "name": "change sudden death to epic suspense music",
+      "replace_ids": [
+        17467242617
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/bluer.ogg"
+    }
+  ]
+}
